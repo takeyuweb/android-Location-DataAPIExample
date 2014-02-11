@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DataAPIExample</string>
+    <string name="title_activity_main">DataAPI Example</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_spot_form">Spot</string>
+
+    <!-- GoogleMap -->
+    <string name="maps_api_key"></string>
+
+    <!-- API設定 -->
+    <string name="data_api_base">http://your.host/mt/mt-data-api.cgi</string>
+    <string name="blog_id">1</string>
+    <string name="mtuser"></string>
+    <string name="mtpass"></string>
+
+</resources>
